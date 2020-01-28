@@ -1,0 +1,3 @@
+{
+  "/stock-price-movements/:stockCode": "/stock-price-movements?stockCode=:stockCode"
+}
